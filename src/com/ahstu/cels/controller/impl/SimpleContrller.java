@@ -1,11 +1,13 @@
 /**
  * 
  */
-package com.ahstu.cels.controller;
+package com.ahstu.cels.controller.impl;
 
 import java.util.Scanner;
 
 import com.ahstu.cels.controller.IController;
+import com.ahstu.cels.util.InputUtil;
+import com.ahstu.cels.util.InputUtilTest;
 import com.ahstu.cels.view.IView;
 import com.ahstu.cels.view.impl.CommandView;
 
@@ -45,8 +47,10 @@ public class SimpleContrller implements IController {
 			// 1. 显示主菜单
 			view.showMianMenu();
 			System.out.print("请选择>");
+			
 			choice = sc.nextInt();
-
+			// 重置rntTop的变量值为false
+			rtnTop = false;
 			// 2. 根据用户的选择进行分支判断
 			switch (choice) {
 			case 1:
@@ -54,8 +58,7 @@ public class SimpleContrller implements IController {
 					// 1. 进入第一个子菜单【浏览器库】
 					view.subShowBaseMenu();
 					// 进一步让用户选择
-					System.out.println("   请选择");
-					choice = sc.nextInt();
+					choice = InputUtil.getInt("请选择>");
 					// 进一步分支子菜单处理
 					switch (choice) {
 					case 1:
@@ -82,8 +85,7 @@ public class SimpleContrller implements IController {
 					// 1. 进入第二个子菜单【做游戏学习】
 					view.subShowBaseMenu();
 					// 进一步让用户选择
-					System.out.println("   请选择");
-					choice = sc.nextInt();
+					choice = InputUtil.getInt("   请选择>");
 					// 进一步分支子菜单处理
 					switch (choice) {
 					case 1:
@@ -103,17 +105,15 @@ public class SimpleContrller implements IController {
 					default:
 						System.out.println("输入有误");
 						break;
-					}
-					
-					break;
+					}	
 				}
+				break;
 			case 3:
 				while (!rtnTop) {
 					// 1. 进入第一个子菜单【浏览器库】
 					view.subTestingMenu();
 					// 进一步让用户选择
-					System.out.println("   请选择");
-					choice = sc.nextInt();
+					choice = InputUtil.getInt("   请选择>");
 					// 进一步分支子菜单处理
 					switch (choice) {
 					case 1:
@@ -135,12 +135,18 @@ public class SimpleContrller implements IController {
 					}
 				}
 				break;
+			case 0:
+				// 代表用户退出程序
+				exist = true; //即可退出外部循环
+				break;
 			default:
 				System.out.println("输入有误");
 				break;
 			}
 
 		} while (!exist);
-	}
+		//
+		System.out.println("\n 程序结束 ... ");
+	} //end of method start
 
-}
+} //end of class

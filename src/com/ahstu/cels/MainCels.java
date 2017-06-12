@@ -4,7 +4,7 @@
 package com.ahstu.cels;
 
 import com.ahstu.cels.controller.IController;
-import com.ahstu.cels.controller.SimpleContrller;
+import com.ahstu.cels.controller.impl.SimpleContrller;
 
 /**
  * @description ´ËÀàµÄÃèÊö
