@@ -1,436 +1,436 @@
-Data Structures#æ•°æ®ç»“æ„ 
-Priority Queues#ä¼˜å…ˆé˜Ÿåˆ— 
-Numerical Problems#æ•°å€¼é—®é¢˜ 
-Solving Linear Equations#çº¿æ€§æ–¹ç¨‹ç»„ 
-Bandwidth Reduction#å¸¦å®½å‹ç¼© 
-Matrix Multiplication#çŸ©é˜µä¹˜æ³• 
-Constrained And Unconstrained Optimization#çº¦æŸå’Œæ— çº¦æŸä¼˜åŒ–:æœ€å€¼é—®é¢˜ 
-Linear Programming#çº¿æ€§è§„åˆ’ 
-Random Number Generation#éšæœºæ•°ç”Ÿæˆ 
-Arbitrary Precision Arithmetic#é«˜ç²¾åº¦è®¡ç®— 
-Knapsack Problem#èƒŒåŒ…é—®é¢˜ 
-Combinatorial Problems#ç»„åˆé—®é¢˜ 
-Median And Selection#ä¸­ä½æ•° 
-Generating Permutations#æ’åˆ—ç”Ÿæˆ 
-Generating Subsets#å­é›†ç”Ÿæˆ 
-Generating Partitions#åˆ’åˆ†ç”Ÿæˆ 
-Generating Graphs#å›¾çš„ç”Ÿæˆ 
-Calendrical Calculations#å†æ³•è®¡ç®— 
-Job Scheduling#ä½œä¸šè°ƒåº¦ 
-Connected Components#è¿é€šåˆ†æ”¯:è¿æ¥ç»„ä»¶
-Topological Sorting#æ‹“æ‰‘æ’åº 
-Minimum Spanning Tree#æœ€å°ç”Ÿæˆæ ‘ 
-Shortest Path#æœ€çŸ­è·¯å¾„ 
-Transitive Closure And Reduction#ä¼ é€’é—­åŒ… 
-Edge And Vertex Connectivity#è¾¹ç¼˜å’Œé¡¶ç‚¹è¿æ¥ 
-Network Flow#ç½‘ç»œæµ 
-Drawing Graphs Nicely#å›¾çš„æç»˜ 
-Drawing Trees#æ ‘çš„æç»˜ 
-Planarity Detection And Embedding#å¹³é¢æ€§æ£€æµ‹å’ŒåµŒå…¥ 
-Vertex Cover#ç‚¹è¦†ç›– 
-Traveling Salesman Problem#æ—…è¡Œå•†é—®é¢˜ 
-Graph Partition#å›¾çš„åˆ’åˆ† 
-Vertex Coloring#ç‚¹æŸ“è‰² 
-Edge Coloring#è¾¹æŸ“è‰² 
-Computational Geometry#è®¡ç®—å‡ ä½• 
-Convex Hull#å‡¸åŒ… 
-Nearest Neighbor Search#æœ€è¿‘ç‚¹å¯¹æŸ¥è¯¢:æœ€è¿‘é‚»æœç´¢
-Range Search#èŒƒå›´æŸ¥è¯¢ 
-Point Location#ä½ç½®æŸ¥è¯¢ 
-Intersection Detection#ç¢°æ’æµ‹è¯• 
-Bin Packing#è£…ç®±é—®é¢˜ 
-Medial-Axis Transformation#ä¸­è½´å˜æ¢ 
-Longest Common Substring#æœ€é•¿å…¬å…±å­ä¸² 
-Shortest Common Superstring#æœ€çŸ­å…¬å…±çˆ¶ä¸² 
-Greatest Common Divisor#æœ€å¤§å…¬çº¦æ•°#GCD 
-Latest Common Multiply#æœ€å°å…¬å€æ•°#LCM 
-Dynamic Programming#åŠ¨æ€è§„åˆ’ 
-Polygon Partitioning#å¤šè¾¹å½¢åˆ†å‰² 
-Simplifying Polygons#å¤šè¾¹å½¢åŒ–ç®€ 
-Shape Similarity#ç›¸ä¼¼å¤šè¾¹å½¢ 
-Motion Planning#è¿åŠ¨è§„åˆ’ 
-Maintaining Line Arrangements#å¹³é¢åˆ†å‰² 
-Set Cover#é›†åˆè¦†ç›– 
-Set Packing#é›†åˆé…ç½® 
-String Matching#æ¨¡å¼åŒ¹é… 
-Approximate String Matching#æ¨¡ç³ŠåŒ¹é… 
-Independent Set#ç‹¬ç«‹é›† 
-Abstract Class#æŠ½è±¡ç±» 
-Abstract Base Class#æŠ½è±¡åŸºç±»#ABC 
-Access Level#è®¿é—®çº§åˆ« 
-Access Function#è®¿é—®å‡½æ•° 
-Actual Parameter#å®å‚ 
-Address-of Operator#å–åœ°å€æ“ä½œç¬¦#ADL 
-Address Space#åœ°å€ç©ºé—´ 
-Add-in#æ’ä»¶ 
-Angle Bracket#å°–æ‹¬å· 
-Application Programming Interface#åº”ç”¨ç¼–ç¨‹æ¥å£ 
-Application Framework#åº”ç”¨ç¨‹åºæ¡†æ¶ 
-Archive File#å½’æ¡£æ–‡ä»¶:å­˜æ¡£æ–‡ä»¶ 
-Arrow Operator#ç®­å¤´æ“ä½œç¬¦ 
-Active Server Page#æ´»åŠ¨æœåŠ¡å™¨é¡µé¢#ASP 
-Assembly Language#æ±‡ç¼–è¯­è¨€ 
-Assembly Manifest#è£…é…ä»¶æ¸…å• 
-Assignment Operator#èµ‹å€¼æ“ä½œç¬¦ 
-Associative Container#å…³è”å¼å®¹å™¨ 
-Atomic Operation#åŸå­æ“ä½œ 
-Artificial Intelligence#äººå·¥æ™ºèƒ½#AI 
-Authentication Service#éªŒè¯æœåŠ¡ 
-Business To Business Integration#B2Bæ•´åˆ:B2Bé›†æˆ 
-Backward Compatible#å‘åå…¼å®¹:å‘ä¸‹å…¼å®¹ 
-Backup Device#å¤‡ä»½è®¾å¤‡ 
-Backup File#å¤‡ä»½æ–‡ä»¶ 
-Base Class#åŸºç±» 
-Base Type#åŸºç±»å‹ 
-Base Class Library#åŸºç±»åº“#BCL 
-Binary Search#äºŒåˆ†æŸ¥æ‰¾ 
-Binary Tree#äºŒå‰æ ‘ 
-Binary Function#åŒå‚å‡½æ•° 
-Binary Large Object#äºŒè¿›åˆ¶å¤§å¯¹è±¡#BLOB 
-Binary Operator#äºŒå…ƒæ“ä½œç¬¦ 
-Bitwise Operation#æŒ‰ä½è¿ç®— 
-Bounds Checking#è¾¹ç•Œæ£€æŸ¥ 
-Curly Brace#èŠ±æ‹¬å· 
-Square Brakcet#æ–¹æ‹¬å· 
-Browser Applications#æµè§ˆå™¨åº”ç”¨ç¨‹åº 
-Browser Accessible Application#å¯ç»ç”±æµè§ˆå™¨è®¿é—®çš„åº”ç”¨ç¨‹åº 
-Built-in#å†…å»º:å†…ç½® 
-Business Logic#ä¸šåŠ¡é€»è¾‘ 
-Business Rules#ä¸šåŠ¡è§„åˆ™ 
-Call Level Interface#è°ƒç”¨çº§æ¥å£#CLI 
-Call Operator#è°ƒç”¨æ“ä½œç¬¦ 
-Candidate Key#å€™é€‰é”® 
-Cascading Delete#çº§è”åˆ é™¤ 
-Cascading Update#çº§è”æ›´æ–° 
-Character Format#å­—ç¬¦æ ¼å¼ 
-Character Set#å­—ç¬¦é›† 
-CHECK Constraints#æ£€æµ‹çº¦æŸ:æ£€æŸ¥çº¦æŸ 
-Check Box#å¤é€‰æ¡† 
-Check Button#å¤é€‰æŒ‰é’® 
-Child Class#å­ç±» 
-Common Intermediate Language#é€šç”¨ä¸­é—´è¯­è¨€:é€šç”¨ä¸­ä»‹è¯­è¨€#CIL 
-Class Declaration#ç±»å£°æ˜ 
-Class Definition#ç±»å®šä¹‰ 
-Class Derivation List#ç±»ç»§æ‰¿åˆ—è¡¨ 
-Class Factory#ç±»å‚:å·¥å‚ç±»
-Class Hierarchy#ç±»å±‚æ¬¡ç»“æ„ 
-Class Library#ç±»åº“ 
-Class Loader#ç±»è£…è½½å™¨ 
-Class Template#ç±»æ¨¡æ¿ 
-Class Template Partial Specializations#ç±»æ¨¡æ¿éƒ¨åˆ†ç‰¹åŒ– 
-Class Template Specializations#ç±»æ¨¡æ¿ç‰¹åŒ– 
-Client Application#å®¢æˆ·ç«¯åº”ç”¨ç¨‹åº 
-Client Cursor#å®¢æˆ·ç«¯æ¸¸æ ‡ 
-Code Page#ä»£ç é¡µ 
-Clean Up#æ¸…ç†:æ¸…é™¤ 
-Common Language Infrastructure#é€šç”¨è¯­è¨€åŸºç¡€è®¾æ–½#CLI 
-Client Area#å®¢æˆ·åŒº 
-Client-server#å®¢æˆ·æœº/æœåŠ¡å™¨:å®¢æˆ·ç«¯/æœåŠ¡å™¨ 
-Common Language Specification#é€šç”¨è¯­è¨€è§„èŒƒ#CLS 
-Code Access Security#ä»£ç è®¿é—®å®‰å…¨ 
-Common Object File Format#é€šç”¨å¯¹è±¡æ–‡ä»¶æ ¼å¼#COFF 
-Component Object Model#ç»„ä»¶å¯¹è±¡æ¨¡å‹#COM 
-Combo Box#ç»„åˆæ¡† 
-Command Line#å‘½ä»¤è¡Œ 
-Compile Time#ç¼–è¯‘æœŸ:ç¼–è¯‘æ—¶ 
-Composite Index#å¤åˆç´¢å¼•:ç»„åˆç´¢å¼•:è”åˆç´¢å¼•
-Composite Key#å¤åˆé”®:ç»„åˆé”® 
-Concrete Class#å…·ä½“ç±» 
-Connection Pooling#è¿æ¥æ±  
-Crosstab Query#äº¤å‰è¡¨æŸ¥è¯¢ 
-Data Connection#æ•°æ®è¿æ¥ 
-Common Object Request Broker Architecture#é€šç”¨å¯¹è±¡è¯·æ±‚ä»£ç†æ¶æ„#CORBA 
-Data Control Language#æ•°æ®æ§åˆ¶è¯­è¨€#DCL 
-Data Definition Language#æ•°æ®å®šä¹‰è¯­è¨€#DDL 
-Data Dictionary#æ•°æ®å­—å…¸ 
-Data Dictionary View#æ•°æ®å­—å…¸è§†å›¾ 
-Data File#æ•°æ®æ–‡ä»¶ 
-Data Integrity#æ•°æ®å®Œæ•´æ€§ 
-Data Manipulation Language#æ•°æ®æ“ä½œè¯­è¨€#DML 
-Data Mart#æ•°æ®é›†å¸‚ 
-Data Pump#æ•°æ®æŠ½å– 
-Data Scrubbing#æ•°æ®æ¸…ç† 
-Data Source#æ•°æ®æº 
-Data Source Name#æ•°æ®æºåç§°#DSN 
-Data Warehouse#æ•°æ®ä»“åº“ 
-Database Catalog#æ•°æ®åº“ç›®å½• 
-Database Diagram#æ•°æ®å…³ç³»å›¾ 
-Database File#æ•°æ®åº“æ–‡ä»¶ 
-Database Object#æ•°æ®åº“å¯¹è±¡ 
-Database Owner#æ•°æ®åº“æ‰€æœ‰è€… 
-Database Project#æ•°æ®åº“å·¥ç¨‹ 
-Database Role#æ•°æ®åº“è§’è‰² 
-Database Schema#æ•°æ®åº“æ¨¡å¼:æ•°æ®åº“æ¶æ„ 
-Database Script#æ•°æ®åº“è„šæœ¬ 
-Data-bound#æ•°æ®ç»‘å®š 
-Data-aware Control#æ•°æ®æ„ŸçŸ¥æ§ä»¶ 
-Data Member#æ•°æ®æˆå‘˜:æˆå‘˜å˜é‡ 
-Data Source#æ•°æ®æº 
-Data Structure#æ•°æ®ç»“æ„ 
-Data Table#æ•°æ®è¡¨ 
-Database Management System#æ•°æ®åº“ç®¡ç†ç³»ç»Ÿ#DBMS 
-Dead Lock#æ­»é” 
-Decision Support#å†³ç­–æ”¯æŒ 
-Declarative Referential Integrity#å£°æ˜å¼•ç”¨å®Œæ•´æ€§#DRI 
-DEFAULT Constraint#é»˜è®¤çº¦æŸ 
-Default Database#é»˜è®¤æ•°æ®åº“ 
-Default Instance#é»˜è®¤å®ä¾‹ 
-Default Result Set#é»˜è®¤ç»“æœé›† 
-Derived Class#æ´¾ç”Ÿç±» 
-Design By Contract#å¥‘çº¦å¼è®¾è®¡ 
-Design Pattern#è®¾è®¡æ¨¡å¼ 
-Dynamic HyperText Markup Language#åŠ¨æ€è¶…æ–‡æœ¬æ ‡è®°è¯­è¨€#DHTML 
-Direct Internet Message Encapsulation#ç›´æ¥Internetæ¶ˆæ¯å°è£…#DIME 
-Dirty Pages#è„é¡µ 
-Dirty Read#è„è¯» 
-Dispatch Identifier#åˆ†æ´¾æ ‡è¯†ç¬¦ 
-Distributed Computing#åˆ†å¸ƒå¼è®¡ç®— 
-Distributed Query#åˆ†å¸ƒå¼æŸ¥è¯¢ 
-Distributed InterNet Application#åˆ†å¸ƒå¼ç½‘é—´åº”ç”¨ç¨‹åº#DNA 
-Document Object Model#æ–‡æ¡£å¯¹è±¡æ¨¡å‹#DOM 
-Dot Operator#ç‚¹æ“ä½œç¬¦ 
-Document Type Definition#æ–‡æ¡£ç±»å‹å®šä¹‰#DTD 
-Double-byte Character Set#åŒå­—èŠ‚å­—ç¬¦é›†#DBCS 
-Dump File#è½¬å‚¨æ–‡ä»¶ 
-Dynamic Cursor#åŠ¨æ€æ¸¸æ ‡ 
-Dynamic Filter#åŠ¨æ€ç­›é€‰:åŠ¨æ€è¿‡æ»¤
-Dynamic Locking#åŠ¨æ€é”å®š 
-Dynamic Recovery#åŠ¨æ€æ¢å¤ 
-Dynamic Snapshot#åŠ¨æ€å¿«ç…§ 
-Dynamic SQL Statements#åŠ¨æ€SQLè¯­å¥ 
-Dynamic Assembly#åŠ¨æ€è£…é…ä»¶:åŠ¨æ€é…ä»¶ 
-Dynamic Binding#åŠ¨æ€ç»‘å®š 
-Enterprise Application Integration#ä¼ä¸šåº”ç”¨ç¨‹åºé›†æˆ:ä¼ä¸šåº”ç”¨ç¨‹åºæ•´åˆ#EAI 
-Empty Base Class Optimization#ç©ºåŸºç±»ä¼˜åŒ– 
-End-to-end Authentication#ç«¯å¯¹ç«¯èº«ä»½éªŒè¯ 
-End User#æœ€ç»ˆç”¨æˆ·:ç»ˆç«¯ç”¨æˆ·
-Enclosing Class#å¤–å›´ç±»åˆ« 
-Electronic Data Interchange#ç”µå­æ•°æ®äº¤æ¢#EDI 
-Equality Operator#ç­‰å·æ“ä½œç¬¦ 
-Error Log#é”™è¯¯æ—¥å¿— 
-Escape Code#è½¬ä¹‰ç  
-Escape Character#è½¬ä¹‰ç¬¦:è½¬ä¹‰å­—ç¬¦ 
-Exclusive Lock#æ’å®ƒé” 
-Explicit Transaction#æ˜¾å¼äº‹åŠ¡ 
-Event Driven#äº‹ä»¶é©±åŠ¨ 
-Event Handler#äº‹ä»¶å¤„ç†å™¨ 
-Exception Declaration#å¼‚å¸¸å£°æ˜ 
-Exception Handling#å¼‚å¸¸å¤„ç†:å¼‚å¸¸å¤„ç†æœºåˆ¶ 
-Exception-safe#å¼‚å¸¸å®‰å…¨çš„ 
-Exception Specification#å¼‚å¸¸è§„èŒƒ 
-Explicit Specialization#æ˜¾å¼ç‰¹åŒ– 
-Fat Client#èƒ–å®¢æˆ·ç«¯ 
-Field Length#å­—æ®µé•¿åº¦ 
-Flash Memory#é—ªå­˜ 
-Foreign Key#å¤–é”®#FK 
-Formal Parameter#å½¢å‚ 
-Forward Declaration#å‰ç½®å£°æ˜ 
-Forward-only Cursor#åªå‘å‰æ¸¸æ ‡ 
-Full Specialization#å®Œå…¨ç‰¹åŒ– 
-Function Call Operator#å‡½æ•°è°ƒç”¨æ“ä½œç¬¦ 
-Function Object#å‡½æ•°å¯¹è±¡ 
-Function Overloaded Resolution#å‡½æ•°é‡è½½å†³è®® 
-Function Template#å‡½æ•°æ¨¡æ¿ 
-Global Assembly Cache#å…¨å±€è£…é…ä»¶ç¼“å­˜:å…¨å±€é…ä»¶ç¼“å­˜#GAC 
-Garbage Collection#åƒåœ¾å›æ”¶:åƒåœ¾æ”¶é›†#GC 
-Generic Algorithm#é€šç”¨ç®—æ³• 
-Global Object#å…¨å±€å¯¹è±¡ 
-Global Scope Resolution Operator#å…¨å±€èŒƒå›´è§£ææ“ä½œç¬¦ 
-Group Box#åˆ†ç»„æ¡† 
-Graph User Interface#å›¾å½¢ç•Œé¢#GUI 
-Globally Unique Identifier#å…¨çƒå”¯ä¸€æ ‡è¯†ç¬¦#GUID 
-Hand Shaking#æ¡æ‰‹ 
-Hard Disk#ç¡¬ç›˜ 
-Hash Table#æ•£åˆ—è¡¨:å“ˆå¸Œè¡¨ 
-Header File#å¤´æ–‡ä»¶ 
-Help File#å¸®åŠ©æ–‡ä»¶ 
-Hierarchical Data#é˜¶å±‚å¼æ•°æ®:å±‚æ¬¡å¼æ•°æ®:å±‚æ¬¡æ•°æ®
-Hot Key#çƒ­é”® 
-HyperText Markup Language#è¶…æ–‡æœ¬æ ‡è®°è¯­è¨€#HTML 
-HyperText Transfer Protocol#è¶…æ–‡æœ¬ä¼ è¾“åè®®#HTTP 
-Integrated Development Environment#é›†æˆå¼€å‘ç¯å¢ƒ#IDE 
-Interface Definition Language#æ¥å£å®šä¹‰è¯­è¨€#IDL 
-Idle Time#ç©ºé—²æ—¶é—´ 
-If And Only#å½“ä¸”ä»…å½“ 
-Intermediate Language#ä¸­é—´è¯­è¨€:ä¸­ä»‹è¯­è¨€#IL 
-Immediate Base#ç›´æ¥åŸºç±» 
-Immediate Derived#ç›´æ¥æ´¾ç”Ÿç±» 
-Immediate Updating#å³æ—¶æ›´æ–° 
-Implicit Transaction#éšå¼äº‹åŠ¡ 
-Incremental Update#å¢é‡æ›´æ–° 
-Increment Operator#å¢åŠ æ“ä½œç¬¦ 
-Infinite Loop#æ— é™å¾ªç¯ 
-Infinite Recursive#æ— é™é€’å½’ 
-Inline Expansion#å†…è”å±•å¼€ 
-Initialization List#åˆå§‹åŒ–åˆ—è¡¨:åˆå§‹å€¼åˆ—è¡¨ 
-Inner Join#å†…è”æ¥ 
-Inplace Active#ç°åœºæ¿€#:å°±åœ°æ¿€æ´» 
-Integrity Constraint#å®Œæ•´æ€§çº¦æŸ 
-Inter Process Communication#è¿›ç¨‹é—´é€šè®¯#IPC 
-Isolation Level#éš”ç¦»çº§åˆ« 
-JIT Compilation#JITç¼–è¯‘:å³æ—¶ç¼–è¯‘ 
-Key Column#é”®åˆ— 
-Late Binding#è¿Ÿç»‘å®š:å»¶è¿Ÿç»‘å®š:åæœŸç»‘å®š 
-Left Outer Join#å·¦å¤–è”æ¥ 
-High Level#é«˜é˜¶:é«˜å±‚:é«˜çº§åˆ«
-Literal Constant#å­—é¢å¸¸æ•° 
-Load Balancing#è´Ÿè½½å¹³è¡¡ 
-Local Object#å±€éƒ¨å¯¹è±¡ 
-Login Security Mode#ç™»å½•å®‰å…¨æ¨¡å¼ 
-Lookup Table#æŸ¥æ‰¾è¡¨ 
-Loose Coupling#æ¾æ•£è€¦åˆ 
-Machine Code#æœºå™¨ç :æœºå™¨ä»£ç  
-Managed Code#å—æ§ä»£ç :æ‰˜ç®¡ä»£ç  
-Managed Extensions#å—æ§æ‰©å……ä»¶:æ‰˜ç®¡æ‰©å±• 
-Managed Object#å—æ§å¯¹è±¡:æ‰˜ç®¡å¯¹è±¡ 
-Many-to-many Relationship#å¤šå¯¹å¤šå…³ç³» 
-Many-to-one Relationship#å¤šå¯¹ä¸€å…³ç³» 
-Member Access Operator#æˆå‘˜è®¿é—®è¿ç®—ç¬¦ 
-Member Function#æˆå‘˜å‡½æ•° 
-Member Initialization List#æˆå‘˜åˆå§‹å€¼åˆ—è¡¨ 
-Memberwise Copy#æˆå‘˜æ‹·è´ 
-Memory Leak#å†…å­˜æ³„æ¼ 
-Message Based#åŸºäºæ¶ˆæ¯çš„ 
-Message Loop#æ¶ˆæ¯ç¯ 
-Message Queuing#æ¶ˆæ¯é˜Ÿåˆ— 
-Middle Tier#ä¸­é—´å±‚ 
-Modeling Language#å»ºæ¨¡è¯­è¨€ 
-Most Derived Class#æœ€åº•å±‚çš„æ´¾ç”Ÿç±» 
-Multithreaded Server Application#å¤šçº¿ç¨‹æœåŠ¡å™¨åº”ç”¨ç¨‹åº 
-Multicast Delegate#ç»„æ’­å§”æ‰˜:å¤šç‚¹å§”æ‰˜ 
-Named Parameter#å‘½åå‚æ•° 
-Named Pipe#å‘½åç®¡é“ 
-Native Code#æœ¬åœ°ç :æœ¬æœºç  
-Native Image Generator#æœ¬åœ°æ˜ åƒç”Ÿæˆå™¨#NGEN 
-Nested Class#åµŒå¥—ç±» 
-Nested Query#åµŒå¥—æŸ¥è¯¢ 
-Nested Table#åµŒå¥—è¡¨ 
-Network Card#ç½‘å¡ 
-Nondependent Name Object#éä¾èµ–åç§°å¯¹è±¡ 
-Object Based#åŸºäºå¯¹è±¡çš„ 
-Object File#ç›®æ ‡æ–‡ä»¶ 
-Object Model#å¯¹è±¡æ¨¡å‹ 
-Object Oriented#é¢å‘å¯¹è±¡#OO 
-Object Pooling#å¯¹è±¡æ± åŒ– 
-One-to-many Relationship#ä¸€å¯¹å¤šå…³ç³» 
-One-to-one Relationship#ä¸€å¯¹ä¸€å…³ç³» 
-Online Analytical Processing#è”æœºåˆ†æå¤„ç†#OLAP 
-Online Redo Log#è”æœºé‡åšæ—¥å¿— 
-Online Transaction Processing#è”æœºäº‹åŠ¡å¤„ç†#OLTP 
-Open Data Services#å¼€æ”¾å¼æ•°æ®æœåŠ¡#ODS 
-Open Database Connectivity#å¼€æ”¾å¼æ•°æ®åº“è¿æ¥#ODBC 
-Operating System#æ“ä½œç³»ç»Ÿ#OS 
-Outer Join#å¤–è”æ¥ 
-Overload Resolution#é‡è½½å†³è®® 
-Overloaded Function#é‡è½½çš„å‡½æ•° 
-Overloaded Operator#è¢«é‡è½½çš„æ“ä½œç¬¦ 
-Parameter List#å‚æ•°åˆ—è¡¨ 
-Parent Class#çˆ¶ç±» 
-Partial Specialization#å±€éƒ¨ç‰¹åŒ– 
-Pass By Address#ä¼ å€ 
-Pass By Reference#ä¼ åœ°å€:æŒ‰å¼•ç”¨ä¼ é€’ 
-Pass By Value#æŒ‰å€¼ä¼ é€’ 
-Personal Digital Assistant#ä¸ªäººæ•°å­—åŠ©ç†#PDA 
-Portable Executable File#å¯ç§»æ¤å¯æ‰§è¡Œæ–‡ä»¶ 
-Platform Invoke Service#å¹³å°è°ƒç”¨æœåŠ¡ 
-Plain Old Java Object#æ™®é€šçš„æ—§å¼Javaå¯¹è±¡ 
-Pop Up#å¼¹å‡ºå¼ 
-Primary Key#ä¸»é”®#PK 
-Primary Table#ä¸»è¡¨ 
-Primary Template#åŸå§‹æ¨¡æ¿ 
-Primitive Type#åŸå§‹ç±»å‹ 
-Progress Bar#è¿›åº¦æŒ‡ç¤ºå™¨ 
-Pseudo Code#ä¼ªç :ä¼ªä»£ç  
-Qualified Name Qualifier#ä¿®é¥°ç¬¦ 
-Race Condition#ç«äº‰æ¡ä»¶ 
-Radio Button#å•é€‰æŒ‰é’® 
-Random Number#éšæœºæ•° 
-Reference Counting#å¼•ç”¨è®¡æ•° 
-Referential Integrity#å¼•ç”¨å®Œæ•´æ€§#RI 
-Refresh Data#åˆ·æ–°æ•°æ® 
-Regular Expression#æ­£åˆ™è¡¨è¾¾å¼ 
-Relational Database#å…³ç³»æ•°æ®åº“ 
-Remote Request#è¿œç¨‹è¯·æ±‚ 
-Result Set#ç»“æœé›† 
-Retrieve Data#æ£€ç´¢æ•°æ® 
-Return Type#è¿”å›ç±»å‹ 
-Return Value#è¿”å›å€¼ 
-Right Outer Join#å³å‘å¤–è”æ¥ 
-Roll Back#å›æ»š 
-Roll Forward#å‰æ»š 
-Row Lock#è¡Œé” 
-Remote Procedure Call#è¿œç¨‹è¿‡ç¨‹è°ƒç”¨#RPC 
-Simple API For XML#XMLç®€å•API:XMLçš„ç®€å•API#SAX 
-Scroll Bar#æ»šåŠ¨æ¡ 
-Scope Operator#ç”Ÿå­˜ç©ºé—´æ“ä½œç¬¦ 
-Scope Resolution Operator#ç”Ÿå­˜ç©ºé—´è§£ææ“ä½œç¬¦ 
-Software Development Kit#è½¯ä»¶å¼€å‘åŒ…:è½¯ä»¶å¼€å‘å·¥å…·åŒ…#SDK 
-Sealed Class#å¯†å°ç±» 
-Sequential Container#åºåˆ—å¼å®¹å™¨ 
-Server Cursor#æœåŠ¡ç«¯æ¸¸æ ‡:æœåŠ¡å™¨æ¸¸æ ‡ 
-Shared Lock#å…±äº«é” 
-Side Effect#å‰¯ä½œç”¨ 
-Smart Pointer#æ™ºèƒ½æŒ‡é’ˆ 
-Simple Mail Transfer Protocol#ç®€å•é‚®ä»¶ä¼ è¾“åè®®#SMTP 
-Simple Object Access Protocol#ç®€å•å¯¹è±¡è®¿é—®åè®®#SOAP 
-Source Code#æºç :æºä»£ç  
-Structured Query Language#ç»“æ„åŒ–æŸ¥è¯¢è¯­è¨€#SQL 
-Stack Unwinding#æ ˆå±•å¼€ 
-Standard Library#æ ‡å‡†åº“ 
-Standard Template Library#æ ‡å‡†æ¨¡æ¿åº“ 
-Static Cursor#é™æ€æ¸¸æ ‡ 
-Static SQL Statements#é™æ€SQLè¯­å¥ 
-Stored Procedure#å­˜å‚¨è¿‡ç¨‹ 
-Status Bar#çŠ¶æ€æ¡ 
-Subscript Operator#ä¸‹æ ‡æ“ä½œç¬¦ 
-System Databases#ç³»ç»Ÿæ•°æ®åº“ 
-System Tables#ç³»ç»Ÿè¡¨ 
-Table Lock#è¡¨é” 
-Table-level Constraint#è¡¨çº§çº¦æŸ 
-Tape Backup#ç£å¸¦å¤‡ä»½ 
-Task Switch#å·¥ä½œåˆ‡æ¢ 
-Transport Control Protocol#ä¼ è¾“æ§åˆ¶åè®®#TCP 
-Template Explicit Specialization#æ¨¡æ¿æ˜¾å¼ç‰¹åŒ– 
-Template Parameter#æ¨¡æ¿å‚æ•° 
-Temporary Object#ä¸´æ—¶å¯¹è±¡ 
-Temporary Table#ä¸´æ—¶è¡¨ 
-Text File#æ–‡æœ¬æ–‡ä»¶ 
-Thin Client#ç˜¦å®¢æˆ·ç«¯ 
-Transaction Log#äº‹åŠ¡æ—¥å¿— 
-Transaction Rollback#äº‹åŠ¡å›æ»š 
-Transactional Replication#äº‹åŠ¡å¤åˆ¶ 
-Translation Unit#ç¿»è¯‘å•å…ƒ 
-Two-phase Commit#ä¸¤é˜¶æ®µæäº¤ 
-Two-phase Lookup#ä¸¤é˜¶æ®µæŸ¥æ‰¾ 
-Universary Description Discovery And Integration#ç»Ÿä¸€æè¿°,æŸ¥è¯¢ä¸é›†æˆ#UDDI 
-Unified Modeling Language#ç»Ÿä¸€å»ºæ¨¡è¯­è¨€#UML 
-Unary Function#å•å‚å‡½æ•° 
-Unary Operator#ä¸€å…ƒæ“ä½œç¬¦ 
-Union Query#è”åˆæŸ¥è¯¢ 
-UNIQUE Constraints#å”¯ä¸€çº¦æŸ 
-Unique Index#å”¯ä¸€ç´¢å¼• 
-Unmanaged Code#éå—æ§ä»£ç :éæ‰˜ç®¡ä»£ç  
-Uniform Resource Identifier#ç»Ÿä¸€èµ„æºæ ‡è¯†ç¬¦#URI 
-Uniform Resource Locator#ç»Ÿä¸€èµ„æºå®šä½å™¨#URL 
-User Interface#ç”¨æˆ·ç•Œé¢ 
-Value Types#å€¼ç±»å‹ 
-Virtual Execution Engine#è™šæ‹Ÿæ‰§è¡Œå¼•æ“#VEE 
-Virtual Function#è™šå‡½æ•° 
-Virtual Machine#è™šæ‹Ÿæœº 
-Virtual Memory#è™šæ‹Ÿå†…å­˜ 
-Web Services#webæœåŠ¡ 
-WHERE Clause#WHEREå­å¥ 
-Wildcard Characters#é€šé…ç¬¦å­—ç¬¦ 
-Wildcard Search#é€šé…ç¬¦æœç´¢ 
-Window Function#çª—å£å‡½æ•° 
-Window Procedure#çª—å£è¿‡ç¨‹ 
-Windows Authentication#Windowsèº«ä»½éªŒè¯ 
-Word Processor#å­—å¤„ç†å™¨ 
-Write Enable#å†™å¯ç”¨ 
-Write Ahead Log#é¢„å†™æ—¥å¿— 
-Web Service Description Language#Web Serviceæè¿°è¯­è¨€#WSDL 
-XML Message Interface XML#æ¶ˆæ¯æ¥å£ 
-eXtensible Markup Language#å¯æ‰©å±•æ ‡è®°è¯­è¨€#XML 
-XML Schema Definition XML#æ¨¡å¼å®šä¹‰è¯­è¨€#XSD 
-eXtensible Stylesheet Language#å¯æ‰©å±•æ ·å¼è¡¨è¯­è¨€#XSL 
-eXtensible Stylesheet Language Transformation#å¯æ‰©å±•æ ·å¼è¡¨è¯­è¨€è½¬æ¢#XSLT 
+Data Structures#Êı¾İ½á¹¹ 
+Priority Queues#ÓÅÏÈ¶ÓÁĞ 
+Numerical Problems#ÊıÖµÎÊÌâ 
+Solving Linear Equations#ÏßĞÔ·½³Ì×é 
+Bandwidth Reduction#´ø¿íÑ¹Ëõ 
+Matrix Multiplication#¾ØÕó³Ë·¨ 
+Constrained And Unconstrained Optimization#Ô¼ÊøºÍÎŞÔ¼ÊøÓÅ»¯:×îÖµÎÊÌâ 
+Linear Programming#ÏßĞÔ¹æ»® 
+Random Number Generation#Ëæ»úÊıÉú³É 
+Arbitrary Precision Arithmetic#¸ß¾«¶È¼ÆËã 
+Knapsack Problem#±³°üÎÊÌâ 
+Combinatorial Problems#×éºÏÎÊÌâ 
+Median And Selection#ÖĞÎ»Êı 
+Generating Permutations#ÅÅÁĞÉú³É 
+Generating Subsets#×Ó¼¯Éú³É 
+Generating Partitions#»®·ÖÉú³É 
+Generating Graphs#Í¼µÄÉú³É 
+Calendrical Calculations#Àú·¨¼ÆËã 
+Job Scheduling#×÷Òµµ÷¶È 
+Connected Components#Á¬Í¨·ÖÖ§:Á¬½Ó×é¼ş
+Topological Sorting#ÍØÆËÅÅĞò 
+Minimum Spanning Tree#×îĞ¡Éú³ÉÊ÷ 
+Shortest Path#×î¶ÌÂ·¾¶ 
+Transitive Closure And Reduction#´«µİ±Õ°ü 
+Edge And Vertex Connectivity#±ßÔµºÍ¶¥µãÁ¬½Ó 
+Network Flow#ÍøÂçÁ÷ 
+Drawing Graphs Nicely#Í¼µÄÃè»æ 
+Drawing Trees#Ê÷µÄÃè»æ 
+Planarity Detection And Embedding#Æ½ÃæĞÔ¼ì²âºÍÇ¶Èë 
+Vertex Cover#µã¸²¸Ç 
+Traveling Salesman Problem#ÂÃĞĞÉÌÎÊÌâ 
+Graph Partition#Í¼µÄ»®·Ö 
+Vertex Coloring#µãÈ¾É« 
+Edge Coloring#±ßÈ¾É« 
+Computational Geometry#¼ÆËã¼¸ºÎ 
+Convex Hull#Í¹°ü 
+Nearest Neighbor Search#×î½üµã¶Ô²éÑ¯:×î½üÁÚËÑË÷
+Range Search#·¶Î§²éÑ¯ 
+Point Location#Î»ÖÃ²éÑ¯ 
+Intersection Detection#Åö×²²âÊÔ 
+Bin Packing#×°ÏäÎÊÌâ 
+Medial-Axis Transformation#ÖĞÖá±ä»» 
+Longest Common Substring#×î³¤¹«¹²×Ó´® 
+Shortest Common Superstring#×î¶Ì¹«¹²¸¸´® 
+Greatest Common Divisor#×î´ó¹«Ô¼Êı#GCD 
+Latest Common Multiply#×îĞ¡¹«±¶Êı#LCM 
+Dynamic Programming#¶¯Ì¬¹æ»® 
+Polygon Partitioning#¶à±ßĞÎ·Ö¸î 
+Simplifying Polygons#¶à±ßĞÎ»¯¼ò 
+Shape Similarity#ÏàËÆ¶à±ßĞÎ 
+Motion Planning#ÔË¶¯¹æ»® 
+Maintaining Line Arrangements#Æ½Ãæ·Ö¸î 
+Set Cover#¼¯ºÏ¸²¸Ç 
+Set Packing#¼¯ºÏÅäÖÃ 
+String Matching#Ä£Ê½Æ¥Åä 
+Approximate String Matching#Ä£ºıÆ¥Åä 
+Independent Set#¶ÀÁ¢¼¯ 
+Abstract Class#³éÏóÀà 
+Abstract Base Class#³éÏó»ùÀà#ABC 
+Access Level#·ÃÎÊ¼¶±ğ 
+Access Function#·ÃÎÊº¯Êı 
+Actual Parameter#Êµ²Î 
+Address-of Operator#È¡µØÖ·²Ù×÷·û#ADL 
+Address Space#µØÖ·¿Õ¼ä 
+Add-in#²å¼ş 
+Angle Bracket#¼âÀ¨ºÅ 
+Application Programming Interface#Ó¦ÓÃ±à³Ì½Ó¿Ú 
+Application Framework#Ó¦ÓÃ³ÌĞò¿ò¼Ü 
+Archive File#¹éµµÎÄ¼ş:´æµµÎÄ¼ş 
+Arrow Operator#¼ıÍ·²Ù×÷·û 
+Active Server Page#»î¶¯·şÎñÆ÷Ò³Ãæ#ASP 
+Assembly Language#»ã±àÓïÑÔ 
+Assembly Manifest#×°Åä¼şÇåµ¥ 
+Assignment Operator#¸³Öµ²Ù×÷·û 
+Associative Container#¹ØÁªÊ½ÈİÆ÷ 
+Atomic Operation#Ô­×Ó²Ù×÷ 
+Artificial Intelligence#ÈË¹¤ÖÇÄÜ#AI 
+Authentication Service#ÑéÖ¤·şÎñ 
+Business To Business Integration#B2BÕûºÏ:B2B¼¯³É 
+Backward Compatible#Ïòºó¼æÈİ:ÏòÏÂ¼æÈİ 
+Backup Device#±¸·İÉè±¸ 
+Backup File#±¸·İÎÄ¼ş 
+Base Class#»ùÀà 
+Base Type#»ùÀàĞÍ 
+Base Class Library#»ùÀà¿â#BCL 
+Binary Search#¶ş·Ö²éÕÒ 
+Binary Tree#¶ş²æÊ÷ 
+Binary Function#Ë«²Îº¯Êı 
+Binary Large Object#¶ş½øÖÆ´ó¶ÔÏó#BLOB 
+Binary Operator#¶şÔª²Ù×÷·û 
+Bitwise Operation#°´Î»ÔËËã 
+Bounds Checking#±ß½ç¼ì²é 
+Curly Brace#»¨À¨ºÅ 
+Square Brakcet#·½À¨ºÅ 
+Browser Applications#ä¯ÀÀÆ÷Ó¦ÓÃ³ÌĞò 
+Browser Accessible Application#¿É¾­ÓÉä¯ÀÀÆ÷·ÃÎÊµÄÓ¦ÓÃ³ÌĞò 
+Built-in#ÄÚ½¨:ÄÚÖÃ 
+Business Logic#ÒµÎñÂß¼­ 
+Business Rules#ÒµÎñ¹æÔò 
+Call Level Interface#µ÷ÓÃ¼¶½Ó¿Ú#CLI 
+Call Operator#µ÷ÓÃ²Ù×÷·û 
+Candidate Key#ºòÑ¡¼ü 
+Cascading Delete#¼¶ÁªÉ¾³ı 
+Cascading Update#¼¶Áª¸üĞÂ 
+Character Format#×Ö·û¸ñÊ½ 
+Character Set#×Ö·û¼¯ 
+CHECK Constraints#¼ì²âÔ¼Êø:¼ì²éÔ¼Êø 
+Check Box#¸´Ñ¡¿ò 
+Check Button#¸´Ñ¡°´Å¥ 
+Child Class#×ÓÀà 
+Common Intermediate Language#Í¨ÓÃÖĞ¼äÓïÑÔ:Í¨ÓÃÖĞ½éÓïÑÔ#CIL 
+Class Declaration#ÀàÉùÃ÷ 
+Class Definition#Àà¶¨Òå 
+Class Derivation List#Àà¼Ì³ĞÁĞ±í 
+Class Factory#Àà³§:¹¤³§Àà
+Class Hierarchy#Àà²ã´Î½á¹¹ 
+Class Library#Àà¿â 
+Class Loader#Àà×°ÔØÆ÷ 
+Class Template#ÀàÄ£°å 
+Class Template Partial Specializations#ÀàÄ£°å²¿·ÖÌØ»¯ 
+Class Template Specializations#ÀàÄ£°åÌØ»¯ 
+Client Application#¿Í»§¶ËÓ¦ÓÃ³ÌĞò 
+Client Cursor#¿Í»§¶ËÓÎ±ê 
+Code Page#´úÂëÒ³ 
+Clean Up#ÇåÀí:Çå³ı 
+Common Language Infrastructure#Í¨ÓÃÓïÑÔ»ù´¡ÉèÊ©#CLI 
+Client Area#¿Í»§Çø 
+Client-server#¿Í»§»ú/·şÎñÆ÷:¿Í»§¶Ë/·şÎñÆ÷ 
+Common Language Specification#Í¨ÓÃÓïÑÔ¹æ·¶#CLS 
+Code Access Security#´úÂë·ÃÎÊ°²È« 
+Common Object File Format#Í¨ÓÃ¶ÔÏóÎÄ¼ş¸ñÊ½#COFF 
+Component Object Model#×é¼ş¶ÔÏóÄ£ĞÍ#COM 
+Combo Box#×éºÏ¿ò 
+Command Line#ÃüÁîĞĞ 
+Compile Time#±àÒëÆÚ:±àÒëÊ± 
+Composite Index#¸´ºÏË÷Òı:×éºÏË÷Òı:ÁªºÏË÷Òı
+Composite Key#¸´ºÏ¼ü:×éºÏ¼ü 
+Concrete Class#¾ßÌåÀà 
+Connection Pooling#Á¬½Ó³Ø 
+Crosstab Query#½»²æ±í²éÑ¯ 
+Data Connection#Êı¾İÁ¬½Ó 
+Common Object Request Broker Architecture#Í¨ÓÃ¶ÔÏóÇëÇó´úÀí¼Ü¹¹#CORBA 
+Data Control Language#Êı¾İ¿ØÖÆÓïÑÔ#DCL 
+Data Definition Language#Êı¾İ¶¨ÒåÓïÑÔ#DDL 
+Data Dictionary#Êı¾İ×Öµä 
+Data Dictionary View#Êı¾İ×ÖµäÊÓÍ¼ 
+Data File#Êı¾İÎÄ¼ş 
+Data Integrity#Êı¾İÍêÕûĞÔ 
+Data Manipulation Language#Êı¾İ²Ù×÷ÓïÑÔ#DML 
+Data Mart#Êı¾İ¼¯ÊĞ 
+Data Pump#Êı¾İ³éÈ¡ 
+Data Scrubbing#Êı¾İÇåÀí 
+Data Source#Êı¾İÔ´ 
+Data Source Name#Êı¾İÔ´Ãû³Æ#DSN 
+Data Warehouse#Êı¾İ²Ö¿â 
+Database Catalog#Êı¾İ¿âÄ¿Â¼ 
+Database Diagram#Êı¾İ¹ØÏµÍ¼ 
+Database File#Êı¾İ¿âÎÄ¼ş 
+Database Object#Êı¾İ¿â¶ÔÏó 
+Database Owner#Êı¾İ¿âËùÓĞÕß 
+Database Project#Êı¾İ¿â¹¤³Ì 
+Database Role#Êı¾İ¿â½ÇÉ« 
+Database Schema#Êı¾İ¿âÄ£Ê½:Êı¾İ¿â¼Ü¹¹ 
+Database Script#Êı¾İ¿â½Å±¾ 
+Data-bound#Êı¾İ°ó¶¨ 
+Data-aware Control#Êı¾İ¸ĞÖª¿Ø¼ş 
+Data Member#Êı¾İ³ÉÔ±:³ÉÔ±±äÁ¿ 
+Data Source#Êı¾İÔ´ 
+Data Structure#Êı¾İ½á¹¹ 
+Data Table#Êı¾İ±í 
+Database Management System#Êı¾İ¿â¹ÜÀíÏµÍ³#DBMS 
+Dead Lock#ËÀËø 
+Decision Support#¾ö²ßÖ§³Ö 
+Declarative Referential Integrity#ÉùÃ÷ÒıÓÃÍêÕûĞÔ#DRI 
+DEFAULT Constraint#Ä¬ÈÏÔ¼Êø 
+Default Database#Ä¬ÈÏÊı¾İ¿â 
+Default Instance#Ä¬ÈÏÊµÀı 
+Default Result Set#Ä¬ÈÏ½á¹û¼¯ 
+Derived Class#ÅÉÉúÀà 
+Design By Contract#ÆõÔ¼Ê½Éè¼Æ 
+Design Pattern#Éè¼ÆÄ£Ê½ 
+Dynamic HyperText Markup Language#¶¯Ì¬³¬ÎÄ±¾±ê¼ÇÓïÑÔ#DHTML 
+Direct Internet Message Encapsulation#Ö±½ÓInternetÏûÏ¢·â×°#DIME 
+Dirty Pages#ÔàÒ³ 
+Dirty Read#Ôà¶Á 
+Dispatch Identifier#·ÖÅÉ±êÊ¶·û 
+Distributed Computing#·Ö²¼Ê½¼ÆËã 
+Distributed Query#·Ö²¼Ê½²éÑ¯ 
+Distributed InterNet Application#·Ö²¼Ê½Íø¼äÓ¦ÓÃ³ÌĞò#DNA 
+Document Object Model#ÎÄµµ¶ÔÏóÄ£ĞÍ#DOM 
+Dot Operator#µã²Ù×÷·û 
+Document Type Definition#ÎÄµµÀàĞÍ¶¨Òå#DTD 
+Double-byte Character Set#Ë«×Ö½Ú×Ö·û¼¯#DBCS 
+Dump File#×ª´¢ÎÄ¼ş 
+Dynamic Cursor#¶¯Ì¬ÓÎ±ê 
+Dynamic Filter#¶¯Ì¬É¸Ñ¡:¶¯Ì¬¹ıÂË
+Dynamic Locking#¶¯Ì¬Ëø¶¨ 
+Dynamic Recovery#¶¯Ì¬»Ö¸´ 
+Dynamic Snapshot#¶¯Ì¬¿ìÕÕ 
+Dynamic SQL Statements#¶¯Ì¬SQLÓï¾ä 
+Dynamic Assembly#¶¯Ì¬×°Åä¼ş:¶¯Ì¬Åä¼ş 
+Dynamic Binding#¶¯Ì¬°ó¶¨ 
+Enterprise Application Integration#ÆóÒµÓ¦ÓÃ³ÌĞò¼¯³É:ÆóÒµÓ¦ÓÃ³ÌĞòÕûºÏ#EAI 
+Empty Base Class Optimization#¿Õ»ùÀàÓÅ»¯ 
+End-to-end Authentication#¶Ë¶Ô¶ËÉí·İÑéÖ¤ 
+End User#×îÖÕÓÃ»§:ÖÕ¶ËÓÃ»§
+Enclosing Class#ÍâÎ§Àà±ğ 
+Electronic Data Interchange#µç×ÓÊı¾İ½»»»#EDI 
+Equality Operator#µÈºÅ²Ù×÷·û 
+Error Log#´íÎóÈÕÖ¾ 
+Escape Code#×ªÒåÂë 
+Escape Character#×ªÒå·û:×ªÒå×Ö·û 
+Exclusive Lock#ÅÅËüËø 
+Explicit Transaction#ÏÔÊ½ÊÂÎñ 
+Event Driven#ÊÂ¼şÇı¶¯ 
+Event Handler#ÊÂ¼ş´¦ÀíÆ÷ 
+Exception Declaration#Òì³£ÉùÃ÷ 
+Exception Handling#Òì³£´¦Àí:Òì³£´¦Àí»úÖÆ 
+Exception-safe#Òì³£°²È«µÄ 
+Exception Specification#Òì³£¹æ·¶ 
+Explicit Specialization#ÏÔÊ½ÌØ»¯ 
+Fat Client#ÅÖ¿Í»§¶Ë 
+Field Length#×Ö¶Î³¤¶È 
+Flash Memory#ÉÁ´æ 
+Foreign Key#Íâ¼ü#FK 
+Formal Parameter#ĞÎ²Î 
+Forward Declaration#Ç°ÖÃÉùÃ÷ 
+Forward-only Cursor#Ö»ÏòÇ°ÓÎ±ê 
+Full Specialization#ÍêÈ«ÌØ»¯ 
+Function Call Operator#º¯Êıµ÷ÓÃ²Ù×÷·û 
+Function Object#º¯Êı¶ÔÏó 
+Function Overloaded Resolution#º¯ÊıÖØÔØ¾öÒé 
+Function Template#º¯ÊıÄ£°å 
+Global Assembly Cache#È«¾Ö×°Åä¼ş»º´æ:È«¾ÖÅä¼ş»º´æ#GAC 
+Garbage Collection#À¬»ø»ØÊÕ:À¬»øÊÕ¼¯#GC 
+Generic Algorithm#Í¨ÓÃËã·¨ 
+Global Object#È«¾Ö¶ÔÏó 
+Global Scope Resolution Operator#È«¾Ö·¶Î§½âÎö²Ù×÷·û 
+Group Box#·Ö×é¿ò 
+Graph User Interface#Í¼ĞÎ½çÃæ#GUI 
+Globally Unique Identifier#È«ÇòÎ¨Ò»±êÊ¶·û#GUID 
+Hand Shaking#ÎÕÊÖ 
+Hard Disk#Ó²ÅÌ 
+Hash Table#É¢ÁĞ±í:¹şÏ£±í 
+Header File#Í·ÎÄ¼ş 
+Help File#°ïÖúÎÄ¼ş 
+Hierarchical Data#½×²ãÊ½Êı¾İ:²ã´ÎÊ½Êı¾İ:²ã´ÎÊı¾İ
+Hot Key#ÈÈ¼ü 
+HyperText Markup Language#³¬ÎÄ±¾±ê¼ÇÓïÑÔ#HTML 
+HyperText Transfer Protocol#³¬ÎÄ±¾´«ÊäĞ­Òé#HTTP 
+Integrated Development Environment#¼¯³É¿ª·¢»·¾³#IDE 
+Interface Definition Language#½Ó¿Ú¶¨ÒåÓïÑÔ#IDL 
+Idle Time#¿ÕÏĞÊ±¼ä 
+If And Only#µ±ÇÒ½öµ± 
+Intermediate Language#ÖĞ¼äÓïÑÔ:ÖĞ½éÓïÑÔ#IL 
+Immediate Base#Ö±½Ó»ùÀà 
+Immediate Derived#Ö±½ÓÅÉÉúÀà 
+Immediate Updating#¼´Ê±¸üĞÂ 
+Implicit Transaction#ÒşÊ½ÊÂÎñ 
+Incremental Update#ÔöÁ¿¸üĞÂ 
+Increment Operator#Ôö¼Ó²Ù×÷·û 
+Infinite Loop#ÎŞÏŞÑ­»· 
+Infinite Recursive#ÎŞÏŞµİ¹é 
+Inline Expansion#ÄÚÁªÕ¹¿ª 
+Initialization List#³õÊ¼»¯ÁĞ±í:³õÊ¼ÖµÁĞ±í 
+Inner Join#ÄÚÁª½Ó 
+Inplace Active#ÏÖ³¡¼¤#:¾ÍµØ¼¤»î 
+Integrity Constraint#ÍêÕûĞÔÔ¼Êø 
+Inter Process Communication#½ø³Ì¼äÍ¨Ñ¶#IPC 
+Isolation Level#¸ôÀë¼¶±ğ 
+JIT Compilation#JIT±àÒë:¼´Ê±±àÒë 
+Key Column#¼üÁĞ 
+Late Binding#³Ù°ó¶¨:ÑÓ³Ù°ó¶¨:ºóÆÚ°ó¶¨ 
+Left Outer Join#×óÍâÁª½Ó 
+High Level#¸ß½×:¸ß²ã:¸ß¼¶±ğ
+Literal Constant#×ÖÃæ³£Êı 
+Load Balancing#¸ºÔØÆ½ºâ 
+Local Object#¾Ö²¿¶ÔÏó 
+Login Security Mode#µÇÂ¼°²È«Ä£Ê½ 
+Lookup Table#²éÕÒ±í 
+Loose Coupling#ËÉÉ¢ñîºÏ 
+Machine Code#»úÆ÷Âë:»úÆ÷´úÂë 
+Managed Code#ÊÜ¿Ø´úÂë:ÍĞ¹Ü´úÂë 
+Managed Extensions#ÊÜ¿ØÀ©³ä¼ş:ÍĞ¹ÜÀ©Õ¹ 
+Managed Object#ÊÜ¿Ø¶ÔÏó:ÍĞ¹Ü¶ÔÏó 
+Many-to-many Relationship#¶à¶Ô¶à¹ØÏµ 
+Many-to-one Relationship#¶à¶ÔÒ»¹ØÏµ 
+Member Access Operator#³ÉÔ±·ÃÎÊÔËËã·û 
+Member Function#³ÉÔ±º¯Êı 
+Member Initialization List#³ÉÔ±³õÊ¼ÖµÁĞ±í 
+Memberwise Copy#³ÉÔ±¿½±´ 
+Memory Leak#ÄÚ´æĞ¹Â© 
+Message Based#»ùÓÚÏûÏ¢µÄ 
+Message Loop#ÏûÏ¢»· 
+Message Queuing#ÏûÏ¢¶ÓÁĞ 
+Middle Tier#ÖĞ¼ä²ã 
+Modeling Language#½¨Ä£ÓïÑÔ 
+Most Derived Class#×îµ×²ãµÄÅÉÉúÀà 
+Multithreaded Server Application#¶àÏß³Ì·şÎñÆ÷Ó¦ÓÃ³ÌĞò 
+Multicast Delegate#×é²¥Î¯ÍĞ:¶àµãÎ¯ÍĞ 
+Named Parameter#ÃüÃû²ÎÊı 
+Named Pipe#ÃüÃû¹ÜµÀ 
+Native Code#±¾µØÂë:±¾»úÂë 
+Native Image Generator#±¾µØÓ³ÏñÉú³ÉÆ÷#NGEN 
+Nested Class#Ç¶Ì×Àà 
+Nested Query#Ç¶Ì×²éÑ¯ 
+Nested Table#Ç¶Ì×±í 
+Network Card#Íø¿¨ 
+Nondependent Name Object#·ÇÒÀÀµÃû³Æ¶ÔÏó 
+Object Based#»ùÓÚ¶ÔÏóµÄ 
+Object File#Ä¿±êÎÄ¼ş 
+Object Model#¶ÔÏóÄ£ĞÍ 
+Object Oriented#ÃæÏò¶ÔÏó#OO 
+Object Pooling#¶ÔÏó³Ø»¯ 
+One-to-many Relationship#Ò»¶Ô¶à¹ØÏµ 
+One-to-one Relationship#Ò»¶ÔÒ»¹ØÏµ 
+Online Analytical Processing#Áª»ú·ÖÎö´¦Àí#OLAP 
+Online Redo Log#Áª»úÖØ×öÈÕÖ¾ 
+Online Transaction Processing#Áª»úÊÂÎñ´¦Àí#OLTP 
+Open Data Services#¿ª·ÅÊ½Êı¾İ·şÎñ#ODS 
+Open Database Connectivity#¿ª·ÅÊ½Êı¾İ¿âÁ¬½Ó#ODBC 
+Operating System#²Ù×÷ÏµÍ³#OS 
+Outer Join#ÍâÁª½Ó 
+Overload Resolution#ÖØÔØ¾öÒé 
+Overloaded Function#ÖØÔØµÄº¯Êı 
+Overloaded Operator#±»ÖØÔØµÄ²Ù×÷·û 
+Parameter List#²ÎÊıÁĞ±í 
+Parent Class#¸¸Àà 
+Partial Specialization#¾Ö²¿ÌØ»¯ 
+Pass By Address#´«Ö· 
+Pass By Reference#´«µØÖ·:°´ÒıÓÃ´«µİ 
+Pass By Value#°´Öµ´«µİ 
+Personal Digital Assistant#¸öÈËÊı×ÖÖúÀí#PDA 
+Portable Executable File#¿ÉÒÆÖ²¿ÉÖ´ĞĞÎÄ¼ş 
+Platform Invoke Service#Æ½Ì¨µ÷ÓÃ·şÎñ 
+Plain Old Java Object#ÆÕÍ¨µÄ¾ÉÊ½Java¶ÔÏó 
+Pop Up#µ¯³öÊ½ 
+Primary Key#Ö÷¼ü#PK 
+Primary Table#Ö÷±í 
+Primary Template#Ô­Ê¼Ä£°å 
+Primitive Type#Ô­Ê¼ÀàĞÍ 
+Progress Bar#½ø¶ÈÖ¸Ê¾Æ÷ 
+Pseudo Code#Î±Âë:Î±´úÂë 
+Qualified Name Qualifier#ĞŞÊÎ·û 
+Race Condition#¾ºÕùÌõ¼ş 
+Radio Button#µ¥Ñ¡°´Å¥ 
+Random Number#Ëæ»úÊı 
+Reference Counting#ÒıÓÃ¼ÆÊı 
+Referential Integrity#ÒıÓÃÍêÕûĞÔ#RI 
+Refresh Data#Ë¢ĞÂÊı¾İ 
+Regular Expression#ÕıÔò±í´ïÊ½ 
+Relational Database#¹ØÏµÊı¾İ¿â 
+Remote Request#Ô¶³ÌÇëÇó 
+Result Set#½á¹û¼¯ 
+Retrieve Data#¼ìË÷Êı¾İ 
+Return Type#·µ»ØÀàĞÍ 
+Return Value#·µ»ØÖµ 
+Right Outer Join#ÓÒÏòÍâÁª½Ó 
+Roll Back#»Ø¹ö 
+Roll Forward#Ç°¹ö 
+Row Lock#ĞĞËø 
+Remote Procedure Call#Ô¶³Ì¹ı³Ìµ÷ÓÃ#RPC 
+Simple API For XML#XML¼òµ¥API:XMLµÄ¼òµ¥API#SAX 
+Scroll Bar#¹ö¶¯Ìõ 
+Scope Operator#Éú´æ¿Õ¼ä²Ù×÷·û 
+Scope Resolution Operator#Éú´æ¿Õ¼ä½âÎö²Ù×÷·û 
+Software Development Kit#Èí¼ş¿ª·¢°ü:Èí¼ş¿ª·¢¹¤¾ß°ü#SDK 
+Sealed Class#ÃÜ·âÀà 
+Sequential Container#ĞòÁĞÊ½ÈİÆ÷ 
+Server Cursor#·şÎñ¶ËÓÎ±ê:·şÎñÆ÷ÓÎ±ê 
+Shared Lock#¹²ÏíËø 
+Side Effect#¸±×÷ÓÃ 
+Smart Pointer#ÖÇÄÜÖ¸Õë 
+Simple Mail Transfer Protocol#¼òµ¥ÓÊ¼ş´«ÊäĞ­Òé#SMTP 
+Simple Object Access Protocol#¼òµ¥¶ÔÏó·ÃÎÊĞ­Òé#SOAP 
+Source Code#Ô´Âë:Ô´´úÂë 
+Structured Query Language#½á¹¹»¯²éÑ¯ÓïÑÔ#SQL 
+Stack Unwinding#Õ»Õ¹¿ª 
+Standard Library#±ê×¼¿â 
+Standard Template Library#±ê×¼Ä£°å¿â 
+Static Cursor#¾²Ì¬ÓÎ±ê 
+Static SQL Statements#¾²Ì¬SQLÓï¾ä 
+Stored Procedure#´æ´¢¹ı³Ì 
+Status Bar#×´Ì¬Ìõ 
+Subscript Operator#ÏÂ±ê²Ù×÷·û 
+System Databases#ÏµÍ³Êı¾İ¿â 
+System Tables#ÏµÍ³±í 
+Table Lock#±íËø 
+Table-level Constraint#±í¼¶Ô¼Êø 
+Tape Backup#´Å´ø±¸·İ 
+Task Switch#¹¤×÷ÇĞ»» 
+Transport Control Protocol#´«Êä¿ØÖÆĞ­Òé#TCP 
+Template Explicit Specialization#Ä£°åÏÔÊ½ÌØ»¯ 
+Template Parameter#Ä£°å²ÎÊı 
+Temporary Object#ÁÙÊ±¶ÔÏó 
+Temporary Table#ÁÙÊ±±í 
+Text File#ÎÄ±¾ÎÄ¼ş 
+Thin Client#Êİ¿Í»§¶Ë 
+Transaction Log#ÊÂÎñÈÕÖ¾ 
+Transaction Rollback#ÊÂÎñ»Ø¹ö 
+Transactional Replication#ÊÂÎñ¸´ÖÆ 
+Translation Unit#·­Òëµ¥Ôª 
+Two-phase Commit#Á½½×¶ÎÌá½» 
+Two-phase Lookup#Á½½×¶Î²éÕÒ 
+Universary Description Discovery And Integration#Í³Ò»ÃèÊö,²éÑ¯Óë¼¯³É#UDDI 
+Unified Modeling Language#Í³Ò»½¨Ä£ÓïÑÔ#UML 
+Unary Function#µ¥²Îº¯Êı 
+Unary Operator#Ò»Ôª²Ù×÷·û 
+Union Query#ÁªºÏ²éÑ¯ 
+UNIQUE Constraints#Î¨Ò»Ô¼Êø 
+Unique Index#Î¨Ò»Ë÷Òı 
+Unmanaged Code#·ÇÊÜ¿Ø´úÂë:·ÇÍĞ¹Ü´úÂë 
+Uniform Resource Identifier#Í³Ò»×ÊÔ´±êÊ¶·û#URI 
+Uniform Resource Locator#Í³Ò»×ÊÔ´¶¨Î»Æ÷#URL 
+User Interface#ÓÃ»§½çÃæ 
+Value Types#ÖµÀàĞÍ 
+Virtual Execution Engine#ĞéÄâÖ´ĞĞÒıÇæ#VEE 
+Virtual Function#Ğéº¯Êı 
+Virtual Machine#ĞéÄâ»ú 
+Virtual Memory#ĞéÄâÄÚ´æ 
+Web Services#web·şÎñ 
+WHERE Clause#WHERE×Ó¾ä 
+Wildcard Characters#Í¨Åä·û×Ö·û 
+Wildcard Search#Í¨Åä·ûËÑË÷ 
+Window Function#´°¿Úº¯Êı 
+Window Procedure#´°¿Ú¹ı³Ì 
+Windows Authentication#WindowsÉí·İÑéÖ¤ 
+Word Processor#×Ö´¦ÀíÆ÷ 
+Write Enable#Ğ´ÆôÓÃ 
+Write Ahead Log#Ô¤Ğ´ÈÕÖ¾ 
+Web Service Description Language#Web ServiceÃèÊöÓïÑÔ#WSDL 
+XML Message Interface XML#ÏûÏ¢½Ó¿Ú 
+eXtensible Markup Language#¿ÉÀ©Õ¹±ê¼ÇÓïÑÔ#XML 
+XML Schema Definition XML#Ä£Ê½¶¨ÒåÓïÑÔ#XSD 
+eXtensible Stylesheet Language#¿ÉÀ©Õ¹ÑùÊ½±íÓïÑÔ#XSL 
+eXtensible Stylesheet Language Transformation#¿ÉÀ©Õ¹ÑùÊ½±íÓïÑÔ×ª»»#XSLT 
