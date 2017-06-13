@@ -3,6 +3,11 @@
  */
 package com.ahstu.cels.dao.impl;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -30,11 +35,41 @@ public class BaseTermDaoImpl implements IBaseTermDao {
 	 */
 	@Override
 	public List<Word> getAllWords() {
-		// TODO Auto-generated method stub
-		return null;
+		// 1. 创建File 对象
+		File file = new File(WORD_FILE);
+		// 2. 判断文件是否存在
+		if (!file.exists() && file.isFile()) {
+			// System.out.println("单词数据文件不存在，请保证此文件存在...");
+			throw new RuntimeException("单词数据文件不存在...");
+		}
+		// 创建一个集合 来保存所有的单词
+		List<Word> words = new ArrayList<>();
+		// 3. 如果文件存在，则读取, 转换成IO流
+		try (BufferedReader br = new BufferedReader(new FileReader(file));){
+			// 读取
+			String line = null; // 用于保存每次读到的行
+			Word w = null; // 存放word对象。【变量的定义最好放在外面】
+			// 4. 循环读取，并把读到的数据转换成word对象
+			while ((line = br.readLine()) != null) {
+				// 处理读到的line【行数据】，把它转换成word对象
+				String[] temp = line.split("\\s+");
+				String en = temp[0]; // 第一个元素是英文
+				String cn = temp[1]; // 第二个元素是中文
+				// 创建一个Word
+				w = new Word(en, cn.split(":+"));
+				// 5. 把这个Word添加到集合中
+				words.add(w);
+			}
+		} catch (IOException e) {
+			// 打印异常堆栈
+			e.printStackTrace();
+		}
+		// 6. 返回
+		return words;
 	}
 
-	/* (non-Javadoc)
+	/* 
+	 * (non-Javadoc)
 	 * @see com.ahstu.cels.dao.IBaseTermDao#getAllVocabulars()
 	 */
 	@Override
