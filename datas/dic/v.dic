@@ -1,0 +1,436 @@
+Data Structures#数据结构 
+Priority Queues#优先队列 
+Numerical Problems#数值问题 
+Solving Linear Equations#线性方程组 
+Bandwidth Reduction#带宽压缩 
+Matrix Multiplication#矩阵乘法 
+Constrained And Unconstrained Optimization#约束和无约束优化:最值问题 
+Linear Programming#线性规划 
+Random Number Generation#随机数生成 
+Arbitrary Precision Arithmetic#高精度计算 
+Knapsack Problem#背包问题 
+Combinatorial Problems#组合问题 
+Median And Selection#中位数 
+Generating Permutations#排列生成 
+Generating Subsets#子集生成 
+Generating Partitions#划分生成 
+Generating Graphs#图的生成 
+Calendrical Calculations#历法计算 
+Job Scheduling#作业调度 
+Connected Components#连通分支:连接组件
+Topological Sorting#拓扑排序 
+Minimum Spanning Tree#最小生成树 
+Shortest Path#最短路径 
+Transitive Closure And Reduction#传递闭包 
+Edge And Vertex Connectivity#边缘和顶点连接 
+Network Flow#网络流 
+Drawing Graphs Nicely#图的描绘 
+Drawing Trees#树的描绘 
+Planarity Detection And Embedding#平面性检测和嵌入 
+Vertex Cover#点覆盖 
+Traveling Salesman Problem#旅行商问题 
+Graph Partition#图的划分 
+Vertex Coloring#点染色 
+Edge Coloring#边染色 
+Computational Geometry#计算几何 
+Convex Hull#凸包 
+Nearest Neighbor Search#最近点对查询:最近邻搜索
+Range Search#范围查询 
+Point Location#位置查询 
+Intersection Detection#碰撞测试 
+Bin Packing#装箱问题 
+Medial-Axis Transformation#中轴变换 
+Longest Common Substring#最长公共子串 
+Shortest Common Superstring#最短公共父串 
+Greatest Common Divisor#最大公约数#GCD 
+Latest Common Multiply#最小公倍数#LCM 
+Dynamic Programming#动态规划 
+Polygon Partitioning#多边形分割 
+Simplifying Polygons#多边形化简 
+Shape Similarity#相似多边形 
+Motion Planning#运动规划 
+Maintaining Line Arrangements#平面分割 
+Set Cover#集合覆盖 
+Set Packing#集合配置 
+String Matching#模式匹配 
+Approximate String Matching#模糊匹配 
+Independent Set#独立集 
+Abstract Class#抽象类 
+Abstract Base Class#抽象基类#ABC 
+Access Level#访问级别 
+Access Function#访问函数 
+Actual Parameter#实参 
+Address-of Operator#取地址操作符#ADL 
+Address Space#地址空间 
+Add-in#插件 
+Angle Bracket#尖括号 
+Application Programming Interface#应用编程接口 
+Application Framework#应用程序框架 
+Archive File#归档文件:存档文件 
+Arrow Operator#箭头操作符 
+Active Server Page#活动服务器页面#ASP 
+Assembly Language#汇编语言 
+Assembly Manifest#装配件清单 
+Assignment Operator#赋值操作符 
+Associative Container#关联式容器 
+Atomic Operation#原子操作 
+Artificial Intelligence#人工智能#AI 
+Authentication Service#验证服务 
+Business To Business Integration#B2B整合:B2B集成 
+Backward Compatible#向后兼容:向下兼容 
+Backup Device#备份设备 
+Backup File#备份文件 
+Base Class#基类 
+Base Type#基类型 
+Base Class Library#基类库#BCL 
+Binary Search#二分查找 
+Binary Tree#二叉树 
+Binary Function#双参函数 
+Binary Large Object#二进制大对象#BLOB 
+Binary Operator#二元操作符 
+Bitwise Operation#按位运算 
+Bounds Checking#边界检查 
+Curly Brace#花括号 
+Square Brakcet#方括号 
+Browser Applications#浏览器应用程序 
+Browser Accessible Application#可经由浏览器访问的应用程序 
+Built-in#内建:内置 
+Business Logic#业务逻辑 
+Business Rules#业务规则 
+Call Level Interface#调用级接口#CLI 
+Call Operator#调用操作符 
+Candidate Key#候选键 
+Cascading Delete#级联删除 
+Cascading Update#级联更新 
+Character Format#字符格式 
+Character Set#字符集 
+CHECK Constraints#检测约束:检查约束 
+Check Box#复选框 
+Check Button#复选按钮 
+Child Class#子类 
+Common Intermediate Language#通用中间语言:通用中介语言#CIL 
+Class Declaration#类声明 
+Class Definition#类定义 
+Class Derivation List#类继承列表 
+Class Factory#类厂:工厂类
+Class Hierarchy#类层次结构 
+Class Library#类库 
+Class Loader#类装载器 
+Class Template#类模板 
+Class Template Partial Specializations#类模板部分特化 
+Class Template Specializations#类模板特化 
+Client Application#客户端应用程序 
+Client Cursor#客户端游标 
+Code Page#代码页 
+Clean Up#清理:清除 
+Common Language Infrastructure#通用语言基础设施#CLI 
+Client Area#客户区 
+Client-server#客户机/服务器:客户端/服务器 
+Common Language Specification#通用语言规范#CLS 
+Code Access Security#代码访问安全 
+Common Object File Format#通用对象文件格式#COFF 
+Component Object Model#组件对象模型#COM 
+Combo Box#组合框 
+Command Line#命令行 
+Compile Time#编译期:编译时 
+Composite Index#复合索引:组合索引:联合索引
+Composite Key#复合键:组合键 
+Concrete Class#具体类 
+Connection Pooling#连接池 
+Crosstab Query#交叉表查询 
+Data Connection#数据连接 
+Common Object Request Broker Architecture#通用对象请求代理架构#CORBA 
+Data Control Language#数据控制语言#DCL 
+Data Definition Language#数据定义语言#DDL 
+Data Dictionary#数据字典 
+Data Dictionary View#数据字典视图 
+Data File#数据文件 
+Data Integrity#数据完整性 
+Data Manipulation Language#数据操作语言#DML 
+Data Mart#数据集市 
+Data Pump#数据抽取 
+Data Scrubbing#数据清理 
+Data Source#数据源 
+Data Source Name#数据源名称#DSN 
+Data Warehouse#数据仓库 
+Database Catalog#数据库目录 
+Database Diagram#数据关系图 
+Database File#数据库文件 
+Database Object#数据库对象 
+Database Owner#数据库所有者 
+Database Project#数据库工程 
+Database Role#数据库角色 
+Database Schema#数据库模式:数据库架构 
+Database Script#数据库脚本 
+Data-bound#数据绑定 
+Data-aware Control#数据感知控件 
+Data Member#数据成员:成员变量 
+Data Source#数据源 
+Data Structure#数据结构 
+Data Table#数据表 
+Database Management System#数据库管理系统#DBMS 
+Dead Lock#死锁 
+Decision Support#决策支持 
+Declarative Referential Integrity#声明引用完整性#DRI 
+DEFAULT Constraint#默认约束 
+Default Database#默认数据库 
+Default Instance#默认实例 
+Default Result Set#默认结果集 
+Derived Class#派生类 
+Design By Contract#契约式设计 
+Design Pattern#设计模式 
+Dynamic HyperText Markup Language#动态超文本标记语言#DHTML 
+Direct Internet Message Encapsulation#直接Internet消息封装#DIME 
+Dirty Pages#脏页 
+Dirty Read#脏读 
+Dispatch Identifier#分派标识符 
+Distributed Computing#分布式计算 
+Distributed Query#分布式查询 
+Distributed InterNet Application#分布式网间应用程序#DNA 
+Document Object Model#文档对象模型#DOM 
+Dot Operator#点操作符 
+Document Type Definition#文档类型定义#DTD 
+Double-byte Character Set#双字节字符集#DBCS 
+Dump File#转储文件 
+Dynamic Cursor#动态游标 
+Dynamic Filter#动态筛选:动态过滤
+Dynamic Locking#动态锁定 
+Dynamic Recovery#动态恢复 
+Dynamic Snapshot#动态快照 
+Dynamic SQL Statements#动态SQL语句 
+Dynamic Assembly#动态装配件:动态配件 
+Dynamic Binding#动态绑定 
+Enterprise Application Integration#企业应用程序集成:企业应用程序整合#EAI 
+Empty Base Class Optimization#空基类优化 
+End-to-end Authentication#端对端身份验证 
+End User#最终用户:终端用户
+Enclosing Class#外围类别 
+Electronic Data Interchange#电子数据交换#EDI 
+Equality Operator#等号操作符 
+Error Log#错误日志 
+Escape Code#转义码 
+Escape Character#转义符:转义字符 
+Exclusive Lock#排它锁 
+Explicit Transaction#显式事务 
+Event Driven#事件驱动 
+Event Handler#事件处理器 
+Exception Declaration#异常声明 
+Exception Handling#异常处理:异常处理机制 
+Exception-safe#异常安全的 
+Exception Specification#异常规范 
+Explicit Specialization#显式特化 
+Fat Client#胖客户端 
+Field Length#字段长度 
+Flash Memory#闪存 
+Foreign Key#外键#FK 
+Formal Parameter#形参 
+Forward Declaration#前置声明 
+Forward-only Cursor#只向前游标 
+Full Specialization#完全特化 
+Function Call Operator#函数调用操作符 
+Function Object#函数对象 
+Function Overloaded Resolution#函数重载决议 
+Function Template#函数模板 
+Global Assembly Cache#全局装配件缓存:全局配件缓存#GAC 
+Garbage Collection#垃圾回收:垃圾收集#GC 
+Generic Algorithm#通用算法 
+Global Object#全局对象 
+Global Scope Resolution Operator#全局范围解析操作符 
+Group Box#分组框 
+Graph User Interface#图形界面#GUI 
+Globally Unique Identifier#全球唯一标识符#GUID 
+Hand Shaking#握手 
+Hard Disk#硬盘 
+Hash Table#散列表:哈希表 
+Header File#头文件 
+Help File#帮助文件 
+Hierarchical Data#阶层式数据:层次式数据:层次数据
+Hot Key#热键 
+HyperText Markup Language#超文本标记语言#HTML 
+HyperText Transfer Protocol#超文本传输协议#HTTP 
+Integrated Development Environment#集成开发环境#IDE 
+Interface Definition Language#接口定义语言#IDL 
+Idle Time#空闲时间 
+If And Only#当且仅当 
+Intermediate Language#中间语言:中介语言#IL 
+Immediate Base#直接基类 
+Immediate Derived#直接派生类 
+Immediate Updating#即时更新 
+Implicit Transaction#隐式事务 
+Incremental Update#增量更新 
+Increment Operator#增加操作符 
+Infinite Loop#无限循环 
+Infinite Recursive#无限递归 
+Inline Expansion#内联展开 
+Initialization List#初始化列表:初始值列表 
+Inner Join#内联接 
+Inplace Active#现场激#:就地激活 
+Integrity Constraint#完整性约束 
+Inter Process Communication#进程间通讯#IPC 
+Isolation Level#隔离级别 
+JIT Compilation#JIT编译:即时编译 
+Key Column#键列 
+Late Binding#迟绑定:延迟绑定:后期绑定 
+Left Outer Join#左外联接 
+High Level#高阶:高层:高级别
+Literal Constant#字面常数 
+Load Balancing#负载平衡 
+Local Object#局部对象 
+Login Security Mode#登录安全模式 
+Lookup Table#查找表 
+Loose Coupling#松散耦合 
+Machine Code#机器码:机器代码 
+Managed Code#受控代码:托管代码 
+Managed Extensions#受控扩充件:托管扩展 
+Managed Object#受控对象:托管对象 
+Many-to-many Relationship#多对多关系 
+Many-to-one Relationship#多对一关系 
+Member Access Operator#成员访问运算符 
+Member Function#成员函数 
+Member Initialization List#成员初始值列表 
+Memberwise Copy#成员拷贝 
+Memory Leak#内存泄漏 
+Message Based#基于消息的 
+Message Loop#消息环 
+Message Queuing#消息队列 
+Middle Tier#中间层 
+Modeling Language#建模语言 
+Most Derived Class#最底层的派生类 
+Multithreaded Server Application#多线程服务器应用程序 
+Multicast Delegate#组播委托:多点委托 
+Named Parameter#命名参数 
+Named Pipe#命名管道 
+Native Code#本地码:本机码 
+Native Image Generator#本地映像生成器#NGEN 
+Nested Class#嵌套类 
+Nested Query#嵌套查询 
+Nested Table#嵌套表 
+Network Card#网卡 
+Nondependent Name Object#非依赖名称对象 
+Object Based#基于对象的 
+Object File#目标文件 
+Object Model#对象模型 
+Object Oriented#面向对象#OO 
+Object Pooling#对象池化 
+One-to-many Relationship#一对多关系 
+One-to-one Relationship#一对一关系 
+Online Analytical Processing#联机分析处理#OLAP 
+Online Redo Log#联机重做日志 
+Online Transaction Processing#联机事务处理#OLTP 
+Open Data Services#开放式数据服务#ODS 
+Open Database Connectivity#开放式数据库连接#ODBC 
+Operating System#操作系统#OS 
+Outer Join#外联接 
+Overload Resolution#重载决议 
+Overloaded Function#重载的函数 
+Overloaded Operator#被重载的操作符 
+Parameter List#参数列表 
+Parent Class#父类 
+Partial Specialization#局部特化 
+Pass By Address#传址 
+Pass By Reference#传地址:按引用传递 
+Pass By Value#按值传递 
+Personal Digital Assistant#个人数字助理#PDA 
+Portable Executable File#可移植可执行文件 
+Platform Invoke Service#平台调用服务 
+Plain Old Java Object#普通的旧式Java对象 
+Pop Up#弹出式 
+Primary Key#主键#PK 
+Primary Table#主表 
+Primary Template#原始模板 
+Primitive Type#原始类型 
+Progress Bar#进度指示器 
+Pseudo Code#伪码:伪代码 
+Qualified Name Qualifier#修饰符 
+Race Condition#竞争条件 
+Radio Button#单选按钮 
+Random Number#随机数 
+Reference Counting#引用计数 
+Referential Integrity#引用完整性#RI 
+Refresh Data#刷新数据 
+Regular Expression#正则表达式 
+Relational Database#关系数据库 
+Remote Request#远程请求 
+Result Set#结果集 
+Retrieve Data#检索数据 
+Return Type#返回类型 
+Return Value#返回值 
+Right Outer Join#右向外联接 
+Roll Back#回滚 
+Roll Forward#前滚 
+Row Lock#行锁 
+Remote Procedure Call#远程过程调用#RPC 
+Simple API For XML#XML简单API:XML的简单API#SAX 
+Scroll Bar#滚动条 
+Scope Operator#生存空间操作符 
+Scope Resolution Operator#生存空间解析操作符 
+Software Development Kit#软件开发包:软件开发工具包#SDK 
+Sealed Class#密封类 
+Sequential Container#序列式容器 
+Server Cursor#服务端游标:服务器游标 
+Shared Lock#共享锁 
+Side Effect#副作用 
+Smart Pointer#智能指针 
+Simple Mail Transfer Protocol#简单邮件传输协议#SMTP 
+Simple Object Access Protocol#简单对象访问协议#SOAP 
+Source Code#源码:源代码 
+Structured Query Language#结构化查询语言#SQL 
+Stack Unwinding#栈展开 
+Standard Library#标准库 
+Standard Template Library#标准模板库 
+Static Cursor#静态游标 
+Static SQL Statements#静态SQL语句 
+Stored Procedure#存储过程 
+Status Bar#状态条 
+Subscript Operator#下标操作符 
+System Databases#系统数据库 
+System Tables#系统表 
+Table Lock#表锁 
+Table-level Constraint#表级约束 
+Tape Backup#磁带备份 
+Task Switch#工作切换 
+Transport Control Protocol#传输控制协议#TCP 
+Template Explicit Specialization#模板显式特化 
+Template Parameter#模板参数 
+Temporary Object#临时对象 
+Temporary Table#临时表 
+Text File#文本文件 
+Thin Client#瘦客户端 
+Transaction Log#事务日志 
+Transaction Rollback#事务回滚 
+Transactional Replication#事务复制 
+Translation Unit#翻译单元 
+Two-phase Commit#两阶段提交 
+Two-phase Lookup#两阶段查找 
+Universary Description Discovery And Integration#统一描述,查询与集成#UDDI 
+Unified Modeling Language#统一建模语言#UML 
+Unary Function#单参函数 
+Unary Operator#一元操作符 
+Union Query#联合查询 
+UNIQUE Constraints#唯一约束 
+Unique Index#唯一索引 
+Unmanaged Code#非受控代码:非托管代码 
+Uniform Resource Identifier#统一资源标识符#URI 
+Uniform Resource Locator#统一资源定位器#URL 
+User Interface#用户界面 
+Value Types#值类型 
+Virtual Execution Engine#虚拟执行引擎#VEE 
+Virtual Function#虚函数 
+Virtual Machine#虚拟机 
+Virtual Memory#虚拟内存 
+Web Services#web服务 
+WHERE Clause#WHERE子句 
+Wildcard Characters#通配符字符 
+Wildcard Search#通配符搜索 
+Window Function#窗口函数 
+Window Procedure#窗口过程 
+Windows Authentication#Windows身份验证 
+Word Processor#字处理器 
+Write Enable#写启用 
+Write Ahead Log#预写日志 
+Web Service Description Language#Web Service描述语言#WSDL 
+XML Message Interface XML#消息接口 
+eXtensible Markup Language#可扩展标记语言#XML 
+XML Schema Definition XML#模式定义语言#XSD 
+eXtensible Stylesheet Language#可扩展样式表语言#XSL 
+eXtensible Stylesheet Language Transformation#可扩展样式表语言转换#XSLT 
