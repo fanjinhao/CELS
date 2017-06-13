@@ -13,7 +13,7 @@ import java.util.Arrays;
  * @version ver1.0
  * 
  */
-public class BaseTerm implements Serializable {
+public class BaseTerm implements Serializable, Comparable<BaseTerm>{
 	/**
 	 * 
 	 */
@@ -81,4 +81,11 @@ public class BaseTerm implements Serializable {
 	private String[] cn;
 	//Ìí¼ÓID
 	private Long id;
+	/* (non-Javadoc)
+	 * @see java.lang.Comparable#compareTo(java.lang.Object)
+	 */
+	@Override
+	public int compareTo(BaseTerm o) {
+		return this.en.compareTo(o.en);
+	}
 }
