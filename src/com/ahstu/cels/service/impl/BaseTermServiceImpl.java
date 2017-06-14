@@ -4,10 +4,10 @@
 package com.ahstu.cels.service.impl;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.TreeMap;
 
 import com.ahstu.cels.dao.IBaseTermDao;
 import com.ahstu.cels.dao.impl.BaseTermDaoImpl;
@@ -32,7 +32,7 @@ public class BaseTermServiceImpl implements IBaseTermService{
 	@Override
 	public Map<Character, List<Word>> getAllWords() {
 		//1. 创建一个Map，用来存放最终的结果
-		Map<Character, List<Word>> results = new HashMap<>();
+		Map<Character, List<Word>> results = new TreeMap<>();
 		//2. 遍历由dao获取的Set<Word>集合
 		Set<Word> words = baseTermDao.getAllWords();
 		// 定义一个List集合来存放所有具有相同首字母的单词

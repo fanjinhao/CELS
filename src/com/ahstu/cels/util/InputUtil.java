@@ -47,4 +47,32 @@ public class InputUtil {
 		//返回读到的整数
 		return result;
 	}
+	 
+	 /******
+	  * 从键盘读取一个字符
+	  * @param msg
+	  * @return
+	  */
+	public synchronized static char getChar(String msg) {
+		char result = ' ';
+		try {
+			//提示
+			System.out.println(msg);
+			//读取
+			String line = br.readLine();
+			//取出第一个字母
+			result = line.charAt(0);
+			//判断是否是字母
+			if (!Character.isLetter(result)) {
+				// 重新调用自己
+				System.out.println("警告，输入的不是字母");
+				return getChar(msg);
+			}
+		} catch (IOException e) {
+			System.out.println("error, IO错误");
+			return getChar(msg);
+		}
+		// 返回
+		return result;
+	}
 }

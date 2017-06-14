@@ -20,4 +20,9 @@ public class InputUtilTest {
 	   int i=InputUtil.getInt("请输入整数>");
 	   System.out.println(i);
    }
+   @Test
+   public void testGetChar()  {
+	   char c = InputUtil.getChar("请输入一个字母>");
+	   System.out.println(c);
+   }
 }
