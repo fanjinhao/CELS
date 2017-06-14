@@ -3,6 +3,7 @@
  */
 package com.ahstu.cels.entity;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -12,6 +13,12 @@ import java.util.List;
  * @ version ver1.0
  */
 public class PageBean<T> {
+	/**
+	 * @param data the data to set
+	 */
+	public void setData(List<T> data) {
+		this.data = data;
+	}
 	//属性
 	//1.  总记录数【来自于DAO】
 	private int count;
@@ -131,5 +138,26 @@ public class PageBean<T> {
 	 */
 	public String getStyle() {
 		return style;
+	}
+	/**************
+	 * 根据页码来返回指定页数的数据
+	 * @param page 页码
+	 * @return
+	 */
+	public List<T> getDataByPage(int page) {
+		int validPage = 1;
+		if (page <= 0) {
+			validPage = first;
+		}else if (page > pages) {
+			validPage = page;
+		}
+		//
+		List<T> result = new ArrayList<>();
+		// 从原始数据中取出指定页码的数据
+		for (int i=(validPage-1)*rows; i<validPage * rows && i < count; i++) {
+			result.add(data.get(i));
+		}
+		//
+		return result;
 	}
 }

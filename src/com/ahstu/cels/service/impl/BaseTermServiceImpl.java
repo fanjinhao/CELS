@@ -65,8 +65,21 @@ public class BaseTermServiceImpl implements IBaseTermService{
 	 */
 	@Override
 	public PageBean<Vocabular> getAllVocabulary() {
-		// TODO Auto-generated method stub
-		return null;
+		//1.获取所有的音词汇
+		Set<Vocabular> vSet = baseTermDao.getAllVocabulars();
+		//2. 创建PageBean对象
+		final int ROWS = 15; // 每页显示15行
+		PageBean<Vocabular> pb = new PageBean<>(vSet.size(), ROWS);
+		//添加数据到此PageBean中
+		List<Vocabular> data = new ArrayList<>();
+		//把Set集合中的数据添加到List集合中
+		for (Vocabular v : vSet) {
+			data.add(v);
+		}
+		//
+		pb.setData(data);
+		//3. 返回
+		return pb;
 	}
 
 }

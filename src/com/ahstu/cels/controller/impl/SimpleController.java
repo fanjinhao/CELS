@@ -9,6 +9,8 @@ import java.util.Map;
 import java.util.Set;
 
 import com.ahstu.cels.controller.IController;
+import com.ahstu.cels.entity.PageBean;
+import com.ahstu.cels.entity.Vocabular;
 import com.ahstu.cels.entity.Word;
 import com.ahstu.cels.service.IBaseTermService;
 import com.ahstu.cels.service.impl.BaseTermServiceImpl;
@@ -113,8 +115,32 @@ public class SimpleController implements IController {
 						break; // end of case 1
 					case 2:
 						// 浏览词汇
-						System.out.println("\n *** 敬请期待，此功能开发中【词汇】.....******");
-						// TODO 待开发列表2 -- 浏览词汇列表
+						// 1. 调用业务方法，获取分页数据
+						PageBean<Vocabular> pb = baseTermService.getAllVocabulary();
+						while (true) {
+							// 2. 显示分页的样式
+							System.out.println(pb.getStyle());
+							System.out.println("______________________________________");
+							// 3. 让用户选择想要查看的页码
+							int page = InputUtil.getInt("请选择你要查看的页码>");
+							// 4. 根据页码来打印数据
+							List<Vocabular> data = pb.getDataByPage(page);
+							//
+							count = 0;
+							
+							for (Vocabular v: data) {
+								count++;
+								System.out.printf("-> %d. %s 的解释是：%s\n",
+										count, v.getEn(), Arrays.toString(v.getCn()));
+							}
+							// 判断是否要结束
+							input = InputUtil.getChar(" -> 是否查看下一页？ n 或 N 代表中断，其他字符继续  >");
+							// 如果用户输入n, 则退出循环
+							if (input == 'n' || input == 'N') {
+								//
+								break;
+							}
+						}
 						break;
 					case 0:
 						rtnTop = true;
