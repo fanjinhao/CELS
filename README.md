@@ -1,5 +1,5 @@
 # CELS
-## Javaweb实训项目
+## Java实训项目
 Java程序设计实训项目总结
 ------------------------
 [项目仓库地址](https://github.com/Finhoo/CELS)
